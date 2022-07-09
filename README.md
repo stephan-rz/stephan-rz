@@ -1,7 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-rz&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stephan-rz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **stephan-rz/stephan-rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
