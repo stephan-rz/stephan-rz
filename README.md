@@ -17,18 +17,18 @@
 <div id="stats" align="center">
 <img src="https://komarev.com/ghpvc/?username=stephan-rz&style=flat-square&color=brightgreen" alt="" align="center"/>
 </div>
-<h1>
+<h1 align="center">
  
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/>
 </h1>
-<h2 align="center">My Github Stats</h2>
+<h1 align="center">My Github Stats</h1>
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-rz&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz)](https://github.com/stephan-rz/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephan-rz)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz)](https://github.com/stephan-rz/github-readme-stats)
 
 
 <!--
