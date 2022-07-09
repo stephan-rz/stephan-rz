@@ -1,9 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h2 align="center">My Github Stats</h2>
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-rz&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz)](https://github.com/anuraghazra/github-readme-stats)</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-rz&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=stephan-rz)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz)](https://github.com/stephan-rz/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stephan-rz)](https://github.com/stephan-rz/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephan-rz)](https://git.io/streak-stats)
 
 
