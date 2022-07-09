@@ -28,7 +28,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephan-rz&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz)](https://github.com/stephan-rz/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=stephan-rz)](https://github.com/stephan-rz/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephan-rz)](https://git.io/streak-stats)
 
 
