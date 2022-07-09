@@ -14,6 +14,14 @@
   </a>
 </div>
 
+<div id="stats" align="center">
+<img src="https://komarev.com/ghpvc/?username=stephan-rz&style=flat-square&color=brightgreen" alt="" align="center"/>
+</div>
+<h1>
+ 
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/>
+</h1>
 <h2 align="center">My Github Stats</h2>
 
 
