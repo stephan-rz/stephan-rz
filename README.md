@@ -20,7 +20,8 @@
 <h1 align="center">
  
   Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/><br>
+  I'm Shamal Chathuranga Wijesuriya
 </h1>
 
 # 💫 About Me:
@@ -37,24 +38,21 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stephan-rz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-rz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=stephan-rz&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shamal) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shamal98) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
 
+###
 
+<br clear="both">
 
+<img src="https://github.com/stephan-rz/stephan-rz/blob/output/snake.svg" alt="Snake animation" />
 
-
-
-
+###
 
 
 
