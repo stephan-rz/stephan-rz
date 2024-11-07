@@ -25,7 +25,7 @@
 </h1>
 
 ## 💫 About Me:
-🔭 I’m currently working on Neoex<br>🌱 I’m currently learning Flutter<br>💬 Ask me about WordPress, React<br>
+🔭 I’m currently working on Neoex Solutions<br>🌱 I’m currently learning ReactNative<br>💬 Ask me about WordPress, NextJs, DevOps<br>
 
 
 ## 🌐 Socials:
